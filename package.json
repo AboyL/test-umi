@@ -16,7 +16,6 @@
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
     "l-lerna-test-base": "1.0.5",
-    "external-remotes-plugin": "1.0.0",
     "typescript": "^4.1.2"
   }
 }
