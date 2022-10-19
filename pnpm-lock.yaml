@@ -3,7 +3,7 @@ lockfileVersion: 5.4
 specifiers:
   '@types/react': ^18.0.0
   '@types/react-dom': ^18.0.0
-  l-lerna-test-base: 1.0.6
+  l-lerna-test-base: 1.0.7
   typescript: ^4.1.2
   umi: ^4.0.22
 
@@ -13,7 +13,7 @@ dependencies:
 devDependencies:
   '@types/react': 18.0.21
   '@types/react-dom': 18.0.6
-  l-lerna-test-base: 1.0.6_umi@4.0.22
+  l-lerna-test-base: 1.0.7_umi@4.0.22
   typescript: 4.8.3
 
 packages:
@@ -3939,8 +3939,8 @@ packages:
       array-includes: 3.1.5
       object.assign: 4.1.4
 
-  /l-lerna-test-base/1.0.6_umi@4.0.22:
-    resolution: {integrity: sha512-ERioPrYdywd3y19ZScSZnkqi9c0HW36TgIpzHcLgEjj4Vi6ALslgcSnYwM44pTGJsVQcYAzffFQxagER1a/XHA==}
+  /l-lerna-test-base/1.0.7_umi@4.0.22:
+    resolution: {integrity: sha512-Olc1J0UCoSFwv2t/YbSCvGPC7ilFxF8mnN8LqRCic52FgVT7chxYe9vtlUaOZQ69sZXcIKXic0eaSs6OBtbZcA==}
     peerDependencies:
       umi: ^4
     dependencies:
@@ -3948,7 +3948,7 @@ packages:
       axios: 1.1.3
       external-remotes-plugin: 1.0.0
       fs-extra: 10.1.0
-      l-lerna-test: 1.0.6_umi@4.0.22
+      l-lerna-test: 1.0.7_umi@4.0.22
       umi: 4.0.22_rc3zfa7xop3ri2kqllwdn2jsk4
     transitivePeerDependencies:
       - debug
@@ -3956,11 +3956,11 @@ packages:
       - webpack
     dev: true
 
-  /l-lerna-test/1.0.6_umi@4.0.22:
-    resolution: {integrity: sha512-iQIB2yZR7XGc76623VTGa1DDzzHPIZ13a/K3mXmY52+ynfmCFUCT7oX897fvXz8dKyrV1sVIzQ+9BW1fbhgZMA==}
+  /l-lerna-test/1.0.7_umi@4.0.22:
+    resolution: {integrity: sha512-Uu91zW/Lu6Q2BJSuabsiXRG+oQq68X2d9Crrz/NZ3HYR8w1DAVowemu07y1+HxprZDrNCn/PtbHd14ZuvDH5Ow==}
     dependencies:
       axios: 0.19.2
-      l-lerna-test-base: 1.0.6_umi@4.0.22
+      l-lerna-test-base: 1.0.7_umi@4.0.22
     transitivePeerDependencies:
       - debug
       - supports-color
